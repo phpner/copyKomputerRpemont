@@ -1,0 +1,928 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0a815432-7f53-46ad-8ee2-c54f642ad7ba" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../atele-my.ru/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../atele-my.ru/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../atele-my.ru/js/my-js.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../atele-my.ru/work.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-10.ru/.idea/copy-10.ru.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-10.ru/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-10.ru/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-10.ru/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-10.ru/blocks/map.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-10.ru/blocks/our-partner.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-10.ru/css/components.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-10.ru/css/core.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-10.ru/css/service_base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-10.ru/fonts/formular-bold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-10.ru/fonts/formular-bold.eot@" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-10.ru/fonts/formular-bold.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-10.ru/fonts/formular-bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-10.ru/fonts/formular-bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-10.ru/fonts/formular-medium.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-10.ru/fonts/formular-medium.eot@" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-10.ru/fonts/formular-medium.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-10.ru/fonts/formular-medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-10.ru/fonts/formular-medium.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-10.ru/fonts/formular-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-10.ru/fonts/formular-regular.eot@" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-10.ru/fonts/formular-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-10.ru/fonts/formular-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-10.ru/fonts/formular-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-10.ru/fonts/museo300.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-10.ru/fonts/museo300.eot@" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-10.ru/fonts/museo300.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-10.ru/fonts/museo300.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-10.ru/fonts/museo300.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-10.ru/fonts/museo500.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-10.ru/fonts/museo500.eot@" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-10.ru/fonts/museo500.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-10.ru/fonts/museo500.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-10.ru/fonts/museo500.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-10.ru/fonts/museo700.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-10.ru/fonts/museo700.eot@" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-10.ru/fonts/museo700.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-10.ru/fonts/museo700.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-10.ru/fonts/museo700.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-10.ru/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-10.ru/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-10.ru/js/client.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-10.ru/js/core.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-10.ru/js/jquery-3.2.1+debounce.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/404.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/about.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/all-commets.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/blocks/advantages-company.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/blocks/all-gallery.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/blocks/banner.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/blocks/description.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/blocks/feedback.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/blocks/free-consultation.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/blocks/have_questions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/blocks/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/blocks/img-gallery-uslugy.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/blocks/img-gallery.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/blocks/our-team.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/blocks/price-list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/blocks/remont-tsentralnoy-gorodskoy-korolevskoy.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/blocks/top-menu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/blocks/uslugi.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/blocks/video-block.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/blocks/we-work-with.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/blocks/why-we.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/blocks/wind-force.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/contact.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/css/ajax-loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/css/animations.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/css/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/css/bootstrap/fonts/Descr.WD3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/css/bootstrap/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/css/bootstrap/fonts/glyphicons-halflings-regular.eot@" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/css/bootstrap/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/css/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/css/bootstrap/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/css/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/css/font-awesome/css/Descr.WD3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/css/font-awesome/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/css/font-awesome/fonts/Descr.WD3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/css/font-awesome/fonts/fontawesome-webfont.eot@" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/css/font-awesome/fonts/fontawesome-webfont.eot@v=4.5.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/css/font-awesome/fonts/fontawesome-webfont.svg@v=4.5.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/css/font-awesome/fonts/fontawesome-webfont.ttf@v=4.5.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/css/font-awesome/fonts/fontawesome-webfont.woff2@v=4.5.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/css/font-awesome/fonts/fontawesome-webfont.woff@v=4.5.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/css/fonts/slick.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/css/fonts/slick.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/css/fonts/slick.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/css/fonts/slick.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/css/hamburgers.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/css/jquery.mmenu.all.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/css/magnific-popup.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/css/slick-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/css/slick.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/css/style-main-clean.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/css/style-main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/daterus.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/demontazh-metallokonstrukcij.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/fasadnye-raboty.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/fonts/font-awesome/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/fonts/font-awesome/fonts/fontawesome-webfont.eot@" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/fonts/font-awesome/fonts/fontawesome-webfont.eot@v=4.5.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/fonts/font-awesome/fonts/fontawesome-webfont.svg@v=4.5.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/fonts/font-awesome/fonts/fontawesome-webfont.ttf@v=4.5.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/fonts/font-awesome/fonts/fontawesome-webfont.woff2@v=4.5.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/fonts/font-awesome/fonts/fontawesome-webfont.woff@v=4.5.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/fonts/fontello.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/fonts/fontello.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/fonts/fontello.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/fonts/fontello.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/fonts/fontello.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/fonts/fontello/css/fontello.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/fonts/fontello/font/fontello.eot@705405" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/fonts/fontello/font/fontello.svg@705405" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/fonts/fontello/font/fontello.ttf@705405" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/fonts/fontello/font/fontello.woff@705405" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/fonts/openSans/OpenSansBold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/fonts/openSans/OpenSansBold.eot@" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/fonts/openSans/OpenSansBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/fonts/openSans/OpenSansBold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/fonts/openSans/OpenSansSemiBold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/fonts/openSans/OpenSansSemiBold.eot@" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/fonts/openSans/OpenSansSemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/fonts/openSans/OpenSansSemiBold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/footer-page.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/footer-uslugy.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/gallery.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/germetizaciya-shvov-doma.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/germetizaciya-shvov.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/58.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/advantages/1adv.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/advantages/2adv.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/advantages/3adv.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/advantages/4adv.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/advantages/5adv.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/advantages/7adv.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/advantages/8adv.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/advantages/9adv.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/banner_top/banner2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/banner_top/banner3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/banner_top/barstt_slide.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/button_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/button_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/check.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/done.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/fon/fon10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/form-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/fullscreen-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/gallery/1s.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/gallery/img_6781.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/gallery/img_6787.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/gallery/img_6990.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/gallery/photo_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/gallery/photo_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/gallery/photo_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/gallery/photo_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/icons/choose-us-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/icons/choose-us-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/icons/choose-us-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/icons/choose-us-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/icons/choose-us-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/icons/choose-us-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/icons/man.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/icons/mans.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/icons/ul-li-img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/koldun01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/koldun02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/logo-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/logo.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/mail_active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/mail_noactive.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/main-banner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/pattern-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/pattern-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/pattern-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/pattern-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/pattern-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/pattern-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/pattern-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/pattern-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/pattern-9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/phone_active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/phone_noactive.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/services/L0001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/services/L0002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/services/L0003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/services/L0004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/services/L0005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/services/L0006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/services/L0007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/sila-vetra.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/slider_uslugy/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/slider_uslugy/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/slider_uslugy/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/slider_uslugy/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/slider_uslugy/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/slider_uslugy/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/slider_uslugy/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/slider_uslugy/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/slider_uslugy/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/slider_uslugy/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/uslugy/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/uslugy/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/uslugy/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/uslugy/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/uslugy/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/uslugy/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/uslugy/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/uslugy/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/uslugy/9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/uslugy/orig/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/uslugy/orig/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/uslugy/orig/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/uslugy/orig/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/uslugy/orig/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/images/uslugy/orig/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/js/jquery.mmenu.all.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/js/plugins/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/js/plugins/jquery-1.12.4.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/js/plugins/jquery.appear.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/js/plugins/jquery.maskedinput.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/js/plugins/jquery.themepunch.revolution.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/js/plugins/jquery.themepunch.tools.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/js/plugins/magnific-popup/jquery.magnific-popup.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/js/plugins/magnific-popup/magnific-popup.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/js/plugins/modernizr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/js/plugins/pagination.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/js/plugins/slick.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/js/template.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/kronirovanie-derevev.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/krovelnye-raboty.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/malyarnye-vysotnye-raboty.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/message.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/mojka-fasadov.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/mojka-okon.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/montazh-bannerov.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/montazh-fasadov.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/montazh-kondicionerov.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/montazh-metallokonstrukcij.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/montazh-myagkoj-krovli.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/montazh-naruzhnoj-reklamy.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/montazh-sistem-antiobledeneniya.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/montazh-sistem-videonablyudeniya.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/montazh-stropilnoj-sistemy.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/montazh-ventilyacii.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/montazh-vodostokov.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/obespylivanie.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/obsledovanie-sooruzhenij.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/obsluzhivanie-krovli.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/obsluzhivanie-ventilyacii.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/ochistka-krysh-ot-snega.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/okraska-metallokonstrukcij.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/okraska-trub.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/osteklenie-fasadov.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/otzyvy.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/otzyvy2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/phpmailer/PHPMailerAutoload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/phpmailer/class.phpmailer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/phpmailer/class.pop3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/phpmailer/class.smtp.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/phpmailer/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/phpmailer/extras/EasyPeasyICS.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/phpmailer/extras/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/phpmailer/extras/htmlfilter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/phpmailer/extras/ntlm_sasl_client.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/phpmailer/language/phpmailer.lang-am.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/phpmailer/language/phpmailer.lang-ar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/phpmailer/language/phpmailer.lang-az.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/phpmailer/language/phpmailer.lang-be.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/phpmailer/language/phpmailer.lang-bg.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/phpmailer/language/phpmailer.lang-br.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/phpmailer/language/phpmailer.lang-ca.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/phpmailer/language/phpmailer.lang-ch.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/phpmailer/language/phpmailer.lang-cz.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/phpmailer/language/phpmailer.lang-de.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/phpmailer/language/phpmailer.lang-dk.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/phpmailer/language/phpmailer.lang-el.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/phpmailer/language/phpmailer.lang-eo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/phpmailer/language/phpmailer.lang-es.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/phpmailer/language/phpmailer.lang-et.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/phpmailer/language/phpmailer.lang-fa.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/phpmailer/language/phpmailer.lang-fi.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/phpmailer/language/phpmailer.lang-fo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/phpmailer/language/phpmailer.lang-fr.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/phpmailer/language/phpmailer.lang-gl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/phpmailer/language/phpmailer.lang-he.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/phpmailer/language/phpmailer.lang-hr.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/phpmailer/language/phpmailer.lang-hu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/phpmailer/language/phpmailer.lang-id.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/phpmailer/language/phpmailer.lang-it.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/phpmailer/language/phpmailer.lang-ja.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/phpmailer/language/phpmailer.lang-ka.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/phpmailer/language/phpmailer.lang-ko.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/phpmailer/language/phpmailer.lang-lt.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/phpmailer/language/phpmailer.lang-lv.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/phpmailer/language/phpmailer.lang-ms.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/phpmailer/language/phpmailer.lang-nl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/phpmailer/language/phpmailer.lang-no.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/phpmailer/language/phpmailer.lang-pl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/phpmailer/language/phpmailer.lang-pt.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/phpmailer/language/phpmailer.lang-ro.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/phpmailer/language/phpmailer.lang-ru.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/phpmailer/language/phpmailer.lang-se.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/phpmailer/language/phpmailer.lang-sk.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/phpmailer/language/phpmailer.lang-sl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/phpmailer/language/phpmailer.lang-sr.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/phpmailer/language/phpmailer.lang-tr.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/phpmailer/language/phpmailer.lang-uk.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/phpmailer/language/phpmailer.lang-vi.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/phpmailer/language/phpmailer.lang-zh.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/phpmailer/language/phpmailer.lang-zh_cn.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/podem-gruzov.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/podsvetka-fasadov-zdanij.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/pokraska-fasadov.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/price.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/prochie-vysotnye-raboty.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/rabota-na-vysote.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/remont-balkonov.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/remont-fasadov.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/remont-myagkoj-krovli.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/remont-okon.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/sbivanie-sosulek.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/svarochnye-raboty-na-vysote.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/top-page.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/top-uslugy.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/top.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/uborka-snega-s-krysh.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/udalenie-vysolov.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/uteplenie-fasadov.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/verholaznye-raboty.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/vysotnyj-klining.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/vysotnyj-montazh.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-11.ru/xref.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-14.ru/otzyvy.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-16.ru/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-16.ru/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-16.ru/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-16.ru/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-16.ru/wp-content/themes/jarida/css/footer-custom-phpner.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/copy-18.ru.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-3.ru/tourvisor.ru/module/core.my.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-8.ru/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-8.ru/blocks/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-8.ru/blocks/how-we-works.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-8.ru/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-8.ru/top.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-8.ru/uslugi/blacks/block-one-top.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-8.ru/uslugi/blacks/calc.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-8.ru/uslugi/blacks/how-we-work.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-8.ru/uslugi/blacks/kroshki.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-8.ru/uslugi/blacks/left-menu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-8.ru/uslugi/blacks/no-easy.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-8.ru/uslugi/blacks/zayavki.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-8.ru/uslugi/footer-uslugi.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-8.ru/uslugi/registratsiya-refrizheratora.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-8.ru/uslugi/top-uslugy.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-9.ru/.idea/copy-9.ru.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-9.ru/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-9.ru/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-9.ru/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../copy-9.ru/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../email-1.ru/allow.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lara-admin-test.ru/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lara-admin-test.ru/.idea/lara-admin-test.ru.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lara-admin-test.ru/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lara-admin-test.ru/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lara-admin-test.ru/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lara-admin-test.ru/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lara-admin-test.ru/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lara-admin-test.ru/app/Admin/bootstrap.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lara-admin-test.ru/resources/views/auth/login.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lara-admin-test.ru/resources/views/auth/passwords/email.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lara-admin-test.ru/resources/views/auth/passwords/reset.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lara-admin-test.ru/resources/views/auth/register.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lara-admin-test.ru/resources/views/layouts/app.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lara-admin-test.ru/resources/views/vendor/admin/partials/sidebar.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lara-admin-test.ru/resources/views/vendor/admin/title.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lara-tur.ru/resources/views/choose_tour.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lara-tur.ru/resources/views/header.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lara-tur.ru/resources/views/layouts/app.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lara-tur.ru/resources/views/russain.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lara-tur.ru/resources/views/search.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../med.ru/file_finder/finder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../med.ru/file_finder/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-curl.ru/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-new-project.ru/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-new-project.ru/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-new-project.ru/.idea/my-new-project.ru.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-new-project.ru/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-new-project.ru/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-new-project.ru/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-new-project.ru/app/Admin/Controllers/Auth/ForgotPasswordController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-new-project.ru/app/Admin/Controllers/Auth/LoginController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-new-project.ru/app/Admin/Controllers/Auth/RegisterController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-new-project.ru/app/Admin/Controllers/Auth/ResetPasswordController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-new-project.ru/app/Admin/Controllers/Auth/VerificationController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-new-project.ru/app/Admin/Controllers/AuthController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-new-project.ru/app/Admin/Extensions/Laradrop.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-new-project.ru/app/Admin/routes.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-new-project.ru/config/view.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-new-project.ru/database/migrations/2015_08_09_000000_create_laradrop_files_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-new-project.ru/database/migrations/2016_01_04_173148_create_admin_tables.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-new-project.ru/database/migrations/2016_02_25_000000_modify_laradrop_files_table_add_nesting.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-new-project.ru/public/vendor/jasekz/laradrop/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-new-project.ru/public/vendor/jasekz/laradrop/img/genericThumbs/folder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-new-project.ru/public/vendor/jasekz/laradrop/img/genericThumbs/no-thumb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-new-project.ru/public/vendor/jasekz/laradrop/js/enyo.dropzone.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-new-project.ru/public/vendor/jasekz/laradrop/js/laradrop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-new-project.ru/resources/views/vendor/admin/laradrop.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-new-project.ru/resources/views/vendor/admin/partials/sidebar.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-new-project.ru/resources/views/vendor/admin/title.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../opencart-1.ru/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../opencart-1.ru/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../opencart-1.ru/.idea/opencart-1.ru.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../opencart-1.ru/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../opencart-1.ru/admin/controller/extension/module/phpner_megamenu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../opencart-1.ru/catalog/controller/extension/module/Phpner_popup_purchase.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../opencart-1.ru/catalog/controller/extension/module/phpner_popup_found_cheaper.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../opencart-1.ru/catalog/controller/extension/module/phpner_popup_login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../opencart-1.ru/catalog/controller/extension/module/phpner_popup_product_options.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../opencart-1.ru/catalog/controller/extension/module/phpner_popup_subscribe.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../opencart-2.ru/catalog/controller/checkout/mycustomerot.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordpre-3.ru/wp-content/themes/phpner-business/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordpre-3.ru/wp-content/themes/phpner-business/inc/customizer_class/Customizer_Post_Control.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakaz-6.ru/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakaz-6.ru/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakaz-7.ru/sass/_manu.scss" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="281">
+              <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/order.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/zakaz/index.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="213">
+              <caret line="82" column="63" selection-start-line="82" selection-start-column="63" selection-end-line="82" selection-end-column="63" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/windows-problems/index.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="66" column="221" selection-start-line="66" selection-start-column="221" selection-end-line="66" selection-end-column="221" />
+              <caret line="43" column="280" selection-start-line="43" selection-start-column="280" selection-end-line="43" selection-end-column="280" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/global.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2210">
+              <caret line="130" column="47" selection-start-line="130" selection-start-column="47" selection-end-line="130" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>uslugi</find>
+      <find>init.js@id=v2ljrlmz</find>
+      <find>&lt;?</find>
+      <find>order</find>
+      <find>order-form</find>
+      <find>Телефон</find>
+      <find>https@mod.calltouch.ru/init.js@id=v2ljrlmz</find>
+      <find>onclick=&quot;ga('send', 'event', 'button', 'call'); return true;&quot;</find>
+      <find>href=&quot;tel_3A+74951504124&quot;</find>
+      <find>contac</find>
+      <find>../</find>
+      <find>/default.htm</find>
+      <find>&lt;script src=&quot;/js/select2.min.js&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;</find>
+      <find>tel_3A+74951504124</find>
+      <find>onclick=&quot;ga('send', 'event', 'button', 'call'); return true;&quot;&gt;</find>
+      <find>tel:3A+74951504124</find>
+      <find>150-41-24</find>
+      <find>phone</find>
+      <find>`</find>
+      <find>default.htm</find>
+      <find>header</find>
+      <find>message</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>55</replace>
+      <replace>href=&quot;tel:+74951504124&quot;</replace>
+      <replace>/</replace>
+      <replace>tel:3A+74951504124</replace>
+      <replace>tel:+74951504124</replace>
+      <replace>&lt;a class=&quot;phone&quot; href=&quot;tel:+74951504124&quot; &gt;8 (495) 150-41-24&lt;/a&gt;</replace>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/header.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/uslugi/order.php" />
+        <option value="$PROJECT_DIR$/js/global.js" />
+        <option value="$PROJECT_DIR$/uslugi/index.htm" />
+        <option value="$PROJECT_DIR$/o-kompanii/index.htm" />
+        <option value="$PROJECT_DIR$/program-installing/index.htm" />
+        <option value="$PROJECT_DIR$/not-see-flashdrive-hdd/index.htm" />
+        <option value="$PROJECT_DIR$/diagnostika-kompyuterov/index.htm" />
+        <option value="$PROJECT_DIR$/nastroyka-routera/index.htm" />
+        <option value="$PROJECT_DIR$/not-connect-to-network/index.htm" />
+        <option value="$PROJECT_DIR$/system-cleaning/index.htm" />
+        <option value="$PROJECT_DIR$/upgrade/index.htm" />
+        <option value="$PROJECT_DIR$/no-sound/index.htm" />
+        <option value="$PROJECT_DIR$/viruses/index.htm" />
+        <option value="$PROJECT_DIR$/pc-not-working/index.htm" />
+        <option value="$PROJECT_DIR$/windows-problems/index.htm" />
+        <option value="$PROJECT_DIR$/cleaning/index.htm" />
+        <option value="$PROJECT_DIR$/kontakti/index.htm" />
+        <option value="$PROJECT_DIR$/index.htm" />
+        <option value="$PROJECT_DIR$/order.php" />
+        <option value="$PROJECT_DIR$/zakaz/index.htm" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="303" />
+    <option name="y" value="67" />
+    <option name="width" value="1520" />
+    <option name="height" value="939" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="copy-18.ru" type="b2602c69:ProjectViewProjectNode" />
+              <item name="copy-18.ru" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="copy-18.ru" type="b2602c69:ProjectViewProjectNode" />
+              <item name="copy-18.ru" type="462c0819:PsiDirectoryNode" />
+              <item name="kontakti" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="copy-18.ru" type="b2602c69:ProjectViewProjectNode" />
+              <item name="copy-18.ru" type="462c0819:PsiDirectoryNode" />
+              <item name="zakaz" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\OSPanel\domains\copy-18.ru" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a815432-7f53-46ad-8ee2-c54f642ad7ba" name="Default Changelist" comment="" />
+      <created>1561559165190</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561559165190</updated>
+      <workItem from="1561559166327" duration="10252000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="10252000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1945629" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.48809522" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="43" column="6" selection-start-line="43" selection-start-column="6" selection-end-line="43" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/global.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2210">
+          <caret line="130" column="47" selection-start-line="130" selection-start-column="47" selection-end-line="130" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uslugi/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="842">
+          <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
+          <caret line="31" column="35" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
+          <caret line="32" column="35" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="35" />
+          <caret line="43" column="64" selection-start-line="43" selection-start-column="64" selection-end-line="43" selection-end-column="64" />
+          <caret line="43" column="123" selection-start-line="43" selection-start-column="123" selection-end-line="43" selection-end-column="123" />
+          <caret line="43" column="197" selection-start-line="43" selection-start-column="197" selection-end-line="43" selection-end-column="197" />
+          <caret line="43" column="274" selection-start-line="43" selection-start-column="274" selection-end-line="43" selection-end-column="274" />
+          <caret line="43" column="368" selection-start-line="43" selection-start-column="368" selection-end-line="43" selection-end-column="368" />
+          <caret line="43" column="434" selection-start-line="43" selection-start-column="434" selection-end-line="43" selection-end-column="434" />
+          <caret line="43" column="489" selection-start-line="43" selection-start-column="489" selection-end-line="43" selection-end-column="489" />
+          <caret line="43" column="553" selection-start-line="43" selection-start-column="553" selection-end-line="43" selection-end-column="553" />
+          <caret line="43" column="618" selection-start-line="43" selection-start-column="618" selection-end-line="43" selection-end-column="618" />
+          <caret line="43" column="698" selection-start-line="43" selection-start-column="698" selection-end-line="43" selection-end-column="698" />
+          <caret line="48" column="72" selection-start-line="48" selection-start-column="72" selection-end-line="48" selection-end-column="72" />
+          <caret line="48" column="146" selection-start-line="48" selection-start-column="146" selection-end-line="48" selection-end-column="146" />
+          <caret line="49" column="56" selection-start-line="49" selection-start-column="56" selection-end-line="49" selection-end-column="56" />
+          <caret line="50" column="68" selection-start-line="50" selection-start-column="68" selection-end-line="50" selection-end-column="68" />
+          <caret line="51" column="66" selection-start-line="51" selection-start-column="66" selection-end-line="51" selection-end-column="66" />
+          <caret line="55" column="25" selection-start-line="55" selection-start-column="25" selection-end-line="55" selection-end-column="25" />
+          <caret line="56" column="37" selection-start-line="56" selection-start-column="37" selection-end-line="56" selection-end-column="37" />
+          <caret line="57" column="35" selection-start-line="57" selection-start-column="35" selection-end-line="57" selection-end-column="35" />
+          <caret line="70" column="32" selection-start-line="70" selection-start-column="32" selection-end-line="70" selection-end-column="32" />
+          <caret line="70" column="82" selection-start-line="70" selection-start-column="82" selection-end-line="70" selection-end-column="82" />
+          <caret line="70" column="147" selection-start-line="70" selection-start-column="147" selection-end-line="70" selection-end-column="147" />
+          <caret line="70" column="215" selection-start-line="70" selection-start-column="215" selection-end-line="70" selection-end-column="215" />
+          <caret line="70" column="300" selection-start-line="70" selection-start-column="300" selection-end-line="70" selection-end-column="300" />
+          <caret line="70" column="357" selection-start-line="70" selection-start-column="357" selection-end-line="70" selection-end-column="357" />
+          <caret line="70" column="403" selection-start-line="70" selection-start-column="403" selection-end-line="70" selection-end-column="403" />
+          <caret line="70" column="458" selection-start-line="70" selection-start-column="458" selection-end-line="70" selection-end-column="458" />
+          <caret line="70" column="514" selection-start-line="70" selection-start-column="514" selection-end-line="70" selection-end-column="514" />
+          <caret line="70" column="585" selection-start-line="70" selection-start-column="585" selection-end-line="70" selection-end-column="585" />
+          <caret line="72" column="39" selection-start-line="72" selection-start-column="39" selection-end-line="72" selection-end-column="39" />
+          <caret line="72" column="102" selection-start-line="72" selection-start-column="102" selection-end-line="72" selection-end-column="102" />
+          <caret line="167" column="614" selection-start-line="167" selection-start-column="614" selection-end-line="167" selection-end-column="614" />
+          <caret line="167" column="1115" selection-start-line="167" selection-start-column="1115" selection-end-line="167" selection-end-column="1115" />
+          <caret line="167" column="1606" selection-start-line="167" selection-start-column="1606" selection-end-line="167" selection-end-column="1606" />
+          <caret line="167" column="2059" selection-start-line="167" selection-start-column="2059" selection-end-line="167" selection-end-column="2059" />
+          <caret line="167" column="2475" selection-start-line="167" selection-start-column="2475" selection-end-line="167" selection-end-column="2475" />
+          <caret line="168" column="179" selection-start-line="168" selection-start-column="179" selection-end-line="168" selection-end-column="179" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/o-kompanii/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="811">
+          <caret line="125" column="27" selection-start-line="125" selection-start-column="27" selection-end-line="125" selection-end-column="27" />
+          <caret line="136" column="27" selection-start-line="136" selection-start-column="27" selection-end-line="136" selection-end-column="27" />
+          <caret line="147" column="27" selection-start-line="147" selection-start-column="27" selection-end-line="147" selection-end-column="27" />
+          <caret line="162" column="62" selection-start-line="162" selection-start-column="62" selection-end-line="162" selection-end-column="62" />
+          <caret line="162" column="608" selection-start-line="162" selection-start-column="608" selection-end-line="162" selection-end-column="608" />
+          <caret line="162" column="714" selection-start-line="162" selection-start-column="714" selection-end-line="162" selection-end-column="714" />
+          <caret line="162" column="1108" selection-start-line="162" selection-start-column="1108" selection-end-line="162" selection-end-column="1108" />
+          <caret line="162" column="1218" selection-start-line="162" selection-start-column="1218" selection-end-line="162" selection-end-column="1218" />
+          <caret line="162" column="1596" selection-start-line="162" selection-start-column="1596" selection-end-line="162" selection-end-column="1596" />
+          <caret line="162" column="1714" selection-start-line="162" selection-start-column="1714" selection-end-line="162" selection-end-column="1714" />
+          <caret line="162" column="2052" selection-start-line="162" selection-start-column="2052" selection-end-line="162" selection-end-column="2052" />
+          <caret line="162" column="2163" selection-start-line="162" selection-start-column="2163" selection-end-line="162" selection-end-column="2163" />
+          <caret line="162" column="2468" selection-start-line="162" selection-start-column="2468" selection-end-line="162" selection-end-column="2468" />
+          <caret line="163" column="173" selection-start-line="163" selection-start-column="173" selection-end-line="163" selection-end-column="173" />
+          <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
+          <caret line="31" column="26" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
+          <caret line="32" column="26" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
+          <caret line="43" column="55" selection-start-line="43" selection-start-column="55" selection-end-line="43" selection-end-column="55" />
+          <caret line="43" column="108" selection-start-line="43" selection-start-column="108" selection-end-line="43" selection-end-column="108" />
+          <caret line="43" column="174" selection-start-line="43" selection-start-column="174" selection-end-line="43" selection-end-column="174" />
+          <caret line="43" column="257" selection-start-line="43" selection-start-column="257" selection-end-line="43" selection-end-column="257" />
+          <caret line="43" column="345" selection-start-line="43" selection-start-column="345" selection-end-line="43" selection-end-column="345" />
+          <caret line="43" column="425" selection-start-line="43" selection-start-column="425" selection-end-line="43" selection-end-column="425" />
+          <caret line="43" column="481" selection-start-line="43" selection-start-column="481" selection-end-line="43" selection-end-column="481" />
+          <caret line="43" column="545" selection-start-line="43" selection-start-column="545" selection-end-line="43" selection-end-column="545" />
+          <caret line="43" column="599" selection-start-line="43" selection-start-column="599" selection-end-line="43" selection-end-column="599" />
+          <caret line="43" column="674" selection-start-line="43" selection-start-column="674" selection-end-line="43" selection-end-column="674" />
+          <caret line="48" column="56" selection-start-line="48" selection-start-column="56" selection-end-line="48" selection-end-column="56" />
+          <caret line="48" column="128" selection-start-line="48" selection-start-column="128" selection-end-line="48" selection-end-column="128" />
+          <caret line="49" column="57" selection-start-line="49" selection-start-column="57" selection-end-line="49" selection-end-column="57" />
+          <caret line="51" column="57" selection-start-line="51" selection-start-column="57" selection-end-line="51" selection-end-column="57" />
+          <caret line="55" column="26" selection-start-line="55" selection-start-column="26" selection-end-line="55" selection-end-column="26" />
+          <caret line="57" column="26" selection-start-line="57" selection-start-column="26" selection-end-line="57" selection-end-column="26" />
+          <caret line="69" column="23" selection-start-line="69" selection-start-column="23" selection-end-line="69" selection-end-column="23" />
+          <caret line="69" column="67" selection-start-line="69" selection-start-column="67" selection-end-line="69" selection-end-column="67" />
+          <caret line="69" column="124" selection-start-line="69" selection-start-column="124" selection-end-line="69" selection-end-column="124" />
+          <caret line="69" column="198" selection-start-line="69" selection-start-column="198" selection-end-line="69" selection-end-column="198" />
+          <caret line="69" column="277" selection-start-line="69" selection-start-column="277" selection-end-line="69" selection-end-column="277" />
+          <caret line="69" column="348" selection-start-line="69" selection-start-column="348" selection-end-line="69" selection-end-column="348" />
+          <caret line="69" column="395" selection-start-line="69" selection-start-column="395" selection-end-line="69" selection-end-column="395" />
+          <caret line="69" column="450" selection-start-line="69" selection-start-column="450" selection-end-line="69" selection-end-column="450" />
+          <caret line="69" column="495" selection-start-line="69" selection-start-column="495" selection-end-line="69" selection-end-column="495" />
+          <caret line="69" column="561" selection-start-line="69" selection-start-column="561" selection-end-line="69" selection-end-column="561" />
+          <caret line="71" column="23" selection-start-line="71" selection-start-column="23" selection-end-line="71" selection-end-column="23" />
+          <caret line="71" column="84" selection-start-line="71" selection-start-column="84" selection-end-line="71" selection-end-column="84" />
+          <caret line="96" column="15" selection-start-line="96" selection-start-column="15" selection-end-line="96" selection-end-column="15" />
+          <caret line="99" column="23" selection-start-line="99" selection-start-column="23" selection-end-line="99" selection-end-column="23" />
+          <caret line="102" column="23" selection-start-line="102" selection-start-column="23" selection-end-line="102" selection-end-column="23" />
+          <caret line="105" column="23" selection-start-line="105" selection-start-column="23" selection-end-line="105" selection-end-column="23" />
+          <caret line="114" column="27" selection-start-line="114" selection-start-column="27" selection-end-line="114" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/program-installing/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="37" column="31" lean-forward="true" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/not-see-flashdrive-hdd/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="43" column="375" selection-start-line="43" selection-start-column="375" selection-end-line="43" selection-end-column="375" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/diagnostika-kompyuterov/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="66" column="592" selection-start-line="66" selection-start-column="592" selection-end-line="66" selection-end-column="592" />
+          <caret line="43" column="705" selection-start-line="43" selection-start-column="705" selection-end-line="43" selection-end-column="705" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nastroyka-routera/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="639">
+          <caret line="48" column="153" selection-start-line="48" selection-start-column="153" selection-end-line="48" selection-end-column="153" />
+          <caret line="68" column="109" selection-start-line="68" selection-start-column="109" selection-end-line="68" selection-end-column="109" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/not-connect-to-network/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="43" column="203" selection-start-line="43" selection-start-column="203" selection-end-line="43" selection-end-column="203" />
+          <caret line="66" column="153" selection-start-line="66" selection-start-column="153" selection-end-line="66" selection-end-column="153" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system-cleaning/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="639">
+          <caret line="48" column="78" selection-start-line="48" selection-start-column="78" selection-end-line="48" selection-end-column="78" />
+          <caret line="68" column="45" selection-start-line="68" selection-start-column="45" selection-end-line="68" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/upgrade/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="66" column="464" selection-start-line="66" selection-start-column="464" selection-end-line="66" selection-end-column="464" />
+          <caret line="43" column="559" selection-start-line="43" selection-start-column="559" selection-end-line="43" selection-end-column="559" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pc-not-working/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="43" column="129" selection-start-line="43" selection-start-column="129" selection-end-line="43" selection-end-column="129" />
+          <caret line="66" column="88" selection-start-line="66" selection-start-column="88" selection-end-line="66" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/viruses/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="43" column="495" selection-start-line="43" selection-start-column="495" selection-end-line="43" selection-end-column="495" />
+          <caret line="66" column="409" selection-start-line="66" selection-start-column="409" selection-end-line="66" selection-end-column="409" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/no-sound/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="43" column="440" selection-start-line="43" selection-start-column="440" selection-end-line="43" selection-end-column="440" />
+          <caret line="66" column="363" selection-start-line="66" selection-start-column="363" selection-end-line="66" selection-end-column="363" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cleaning/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="42" column="70" selection-start-line="42" selection-start-column="70" selection-end-line="42" selection-end-column="70" />
+          <caret line="65" column="38" selection-start-line="65" selection-start-column="38" selection-end-line="65" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/windows-problems/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="66" column="221" selection-start-line="66" selection-start-column="221" selection-end-line="66" selection-end-column="221" />
+          <caret line="43" column="280" selection-start-line="43" selection-start-column="280" selection-end-line="43" selection-end-column="280" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kontakti/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="57" column="34" selection-start-line="57" selection-start-column="34" selection-end-line="57" selection-end-column="34" />
+          <folding>
+            <element signature="n#style#0;n#iframe#0;n#div#1;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#10754#10761#0#HTML" expanded="true" />
+            <element signature="e#10777#10784#0#HTML" expanded="true" />
+            <element signature="e#10792#10799#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zakaz/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="82" column="63" selection-start-line="82" selection-start-column="63" selection-end-line="82" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
