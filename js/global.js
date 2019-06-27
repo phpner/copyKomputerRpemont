@@ -13,10 +13,6 @@ $(document).ready(function () {
             }
         }
     };
-
-
-
-
     var brand = getUrlParameter('brand');
 
     if (brand) {
@@ -137,6 +133,13 @@ $(document).ready(function () {
         e.preventDefault();
         send_order($(this).find('input[name="send"]'), $(this));
     });
+
+    $('#testimonial').on('submit', function (e) {
+        e.preventDefault();
+        send_order($(this).find('button[tyle="submit"]'), $(this));
+    });
+
+
     $('.order-form input[name="send"]').on('click', function (e) {
         e.preventDefault();
         send_order($(this), $(this).closest('form'));

@@ -27,7 +27,21 @@ if(!empty($_POST['phone'])){
 if(!empty($_POST['message'])){
     $message  .= "<br> Сообщение:".trim(strip_tags($_POST['message']));
 }
+if(!empty($_POST['document'])){
+    $message  .= "<br> Номер документа:".trim(strip_tags($_POST['document']));
+}
 
+if(!empty($_POST['author'])){
+    $message  .= "<br>Автор:".trim(strip_tags($_POST['author']));
+}
+
+if(!empty($_POST['testimonial'])){
+    $message  .= "<br>Отзыв: ".trim(strip_tags($_POST['testimonial']));
+}
+
+if(!empty($_POST['rating'])){
+    $message  .= "<br>Рейтинг: ".trim(strip_tags($_POST['rating']));
+}
 
 $body = $message;
 require_once($_SERVER['DOCUMENT_ROOT'] . '/phpmailer/PHPMailerAutoload.php'); //подключаем класс
@@ -45,10 +59,18 @@ $mail->IsHTML(true);
 //отправка
 $ph = $_POST['phone'];
 $leng = strlen($ph);
-if ($leng <= 16){
+if ($leng <= 16 && !empty($ph)){
     $json = json_encode([
         "message" => "Телефон — укажите телефон с кодом города или моб. оператора. например: 8 926 1234567, 926 123-45-67",
         "phone" => $ph,
+        "status" => false
+    ]);
+    echo $json;
+    die();
+}
+if (isset($_POST['phone']) && empty($_POST['phone'])){
+    $json = json_encode([
+        "message" => "Телефон — это поле обязательно.",
         "status" => false
     ]);
     echo $json;
@@ -66,15 +88,18 @@ if(!$mail->Send()) {
             "phone" => $ph,
             "status" => true
         ]);
-    }else {
+    }elseif (!empty($_POST['document'])){
         $json = json_encode([
-            "message" => "Телефон — это поле обязательно.",
-            "status" => false
+            "message" => "Благодарим вас за отзыв!",
+            "status" => true
         ]);
     }
 
-
     echo $json;
+}
+
+function sendEmail(){
+
 }
 /*header( 'Refresh: 0; url=http://kuban-hostel.ru/' );*/
 /*exit;*/
